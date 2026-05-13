@@ -1,5 +1,4 @@
 ---
-
 # 🥛 Dudhamrut
 
 **Dudhamrut** is an AI-powered initiative focused on analyzing milk quality to help determine whether milk is pure, adulterated, or unsafe for consumption.
